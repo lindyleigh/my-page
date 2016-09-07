@@ -5,6 +5,11 @@
 	font-style: normal;
 }
 
+/** {
+	outline: 1px solid red;
+}*/
+
+
 *, *:after, *:before { -webkit-box-sizing: border-box; box-sizing: border-box; }
 .clearfix:before, .clearfix:after {display: table;  content: ''; }
 .clearfix:after { clear: both; }
@@ -305,13 +310,8 @@ a:focus {
 }
 
 .about-container {
-	padding-right: 5px;
-	padding-left: 5px;
-	margin-left: 0;
-	margin-right: 0;
-	width: 100%;
+	margin-bottom: 100px;
 }
-
 
 .about-section {
 	position: relative;
@@ -319,11 +319,23 @@ a:focus {
 	border-color: transparent;
 	margin-bottom: 0%;
 	height: 520px;
+	width: 100%;
 }
 
-.image-container1 {
-	width: 100%;
+.info-container {
+	padding-right: 5px;
+	padding-left: 5px;
+	margin-left: 0;
+	margin-right: 0;
+	float: right;
+	width: 40%;
+}
+
+
+.image-container {
+	width: 60%;
     height: 520px;
+	float: left;
     background-image: url('images/aboutme1.jpg');
     background-repeat: no-repeat;
     background-size: contain;
@@ -331,58 +343,32 @@ a:focus {
 	z-index: -1000;
 }
 
+/*.about-img {
+	padding-top: 50px;
+}*/
 
-.about-img {
+
+/*.about-img {
 	background-attachment: fixed;
 	z-index: -1000;
 	width: 40%;
 	height: 520px;
 	margin: 0;
 	overflow: hidden;
-	border-bottom: 1px solid white;
 }
 
 .about-img1 {
 	background-image: url('images/aboutme1.jpg');
 	float: left;
 	background-size: 50%;
-}
+}*/
 
-.about-img2 {
-	background-image: url('images/tourdefat.jpg');
-	float: right;
-	background-size: 50%;
-}
-
-.about-img3 {
-	background-image: url('images/china.jpg');
-	float: left;
-	background-size: 55%;
-	
-}
-
-.about-img4 {
-	background-image: url('images/duke.jpg');
-	float: right;
-	background-size: 40%;
-}
-
-.about-content1 {
+.about-content {
 	width: 60%;
 	height: 520px;
 	z-index: 1000;
-	float: right;
-	border-bottom: 1px solid white;
-	border-left: 1px solid white;
-}
+	margin: auto;
 
-.about-content2 {
-	width: 60%;
-	height: 520px;
-	z-index: 1000;
-	float: left;
-	border-bottom: 1px solid white;
-	border-right: 1px solid white;
 }
 
 .inner-content {
