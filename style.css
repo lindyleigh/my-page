@@ -320,17 +320,16 @@ a:focus {
 	margin-bottom: 0%;
 	height: 520px;
 }
-/*
+
 .image-container1 {
-	width: 40%;
+	width: 100%;
     height: 520px;
     background-image: url('images/aboutme1.jpg');
     background-repeat: no-repeat;
-    background-size: 40%;
+    background-size: contain;
 	background-attachment: fixed;
 	z-index: -1000;
-	float: left;
-}*/
+}
 
 
 .about-img {
