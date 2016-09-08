@@ -300,11 +300,12 @@ a:focus {
 }
 
 .about-content {
-	width: 30%;
+	width: 34%;
 }
 
 .image-container img {
 	border-radius: 10%;
+	width: 100%;
 }
 
 .about-content h2 {
