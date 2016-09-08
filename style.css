@@ -470,7 +470,7 @@ a:focus {
 	text-align: center;
 	overflow: hidden;
 	margin: 0 auto;
-	margin-bottom: 20px;
+	margin-bottom: 1%;
 	width: 312px;
 	height: 270px;
 }
@@ -490,6 +490,7 @@ a:focus {
 	margin: 5px;
 	width: 300px;
 	padding: 1px;
+	border-radius: 10%;
 }
 
 .contact {
