@@ -499,7 +499,7 @@ a:focus {
 	overflow: hidden;
 	margin: 0 auto;
 	margin-bottom: 20px;
-	width: 300px;
+	width: 312px;
 }
 
 .project-tile h3 {
@@ -509,11 +509,14 @@ a:focus {
 
 .project-tile p {
 	color: white;
+	font-size: 16px;
 	font-family: "Josefin Sans", "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .project-tile img {
 	margin: 5px;
+	width: 300px;
+	padding: 1px;
 }
 
 .contact {
