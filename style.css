@@ -303,12 +303,12 @@ a:focus {
 	border-radius: 10%;
 }
 
-.inner-content h2 {
+.about-content h2 {
 	color: deeppink;
 	font-family: "Josefin Sans", "Helvetica Neue", Helvetica, sans-serif;
 }
 
-.inner-content p {
+.about-content p {
 	color: white;
 	font-family: "Josefin Sans", "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 20px;
