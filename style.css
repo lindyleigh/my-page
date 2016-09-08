@@ -299,6 +299,10 @@ a:focus {
 	
 }
 
+.about-content {
+	width: 30%;
+}
+
 .image-container img {
 	border-radius: 10%;
 }
