@@ -326,7 +326,7 @@ a:focus {
 	margin-left: 0;
 	margin-right: 0;
 	float: right;
-	width: 54%;
+	width: 60%;
 	height: 520px;
 }
 
@@ -401,7 +401,12 @@ a:focus {
 }
 
 
-.flip-container {
+.frontend .flip-container {
+	perspective: 1000px;
+	margin: 11px;
+}
+
+.backend .flip-container {
 	perspective: 1000px;
 	margin: 19px;
 }
