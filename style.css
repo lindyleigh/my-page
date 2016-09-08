@@ -326,20 +326,22 @@ a:focus {
 	margin-left: 0;
 	margin-right: 0;
 	float: right;
-	width: 46%;
+	width: 54%;
 	height: 520px;
 }
 
 
 .image-container {
-	width: 52%;
+	width: 32%;
     height: 520px;
-	float: left;
+    float: left;
     background-image: url('images/aboutme1.jpg');
     background-repeat: no-repeat;
     background-size: contain;
-	/*background-attachment: fixed;*/
-	z-index: -1000;
+    /* background-attachment: fixed; */
+    z-index: -1000;
+    margin-left: 2%;
+    border-radius: 10%;
 }
 
 .about-content {
@@ -362,7 +364,7 @@ a:focus {
 .inner-content p {
 	color: white;
 	font-family: "Josefin Sans", "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 30px;
+	font-size: 20px;
 }
 
 .skills {
