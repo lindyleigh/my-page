@@ -326,13 +326,13 @@ a:focus {
 	margin-left: 0;
 	margin-right: 0;
 	float: right;
-	width: 40%;
+	width: 46%;
 	height: 520px;
 }
 
 
 .image-container {
-	width: 60%;
+	width: 52%;
     height: 520px;
 	float: left;
     background-image: url('images/aboutme1.jpg');
