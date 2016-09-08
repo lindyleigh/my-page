@@ -501,6 +501,7 @@ a:focus {
 
 .contact ul {
 	list-style: none;
+	padding-left: 0;
 }
 
 .contact li {
