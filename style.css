@@ -408,7 +408,9 @@ a:focus {
 
 .backend .flip-container {
 	perspective: 1000px;
-	margin: 19px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .flip-container:hover .flipper, .flip-container.hover .flipper {
