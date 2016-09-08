@@ -294,6 +294,11 @@ a:focus {
 }
 
 .about-section {
+	height: 500px;
+	
+}
+
+/*.about-section {
 	position: relative;
 	border-bottom: 1px solid;
 	border-color: transparent;
@@ -303,7 +308,7 @@ a:focus {
 }
 
 .info-container {
-    margin-left: 44px;
+    margin-left: 7%;
     height: 495px;
 }
 
@@ -316,13 +321,17 @@ a:focus {
     background-size: contain;
     border-radius: 10%;
     margin-left: 11%;
+}*/
+
+.image-container img {
+	border-radius: 10%;
 }
 
-.about-content {
+/*.about-content {
 	width: 60%;
     margin-top: 21%;
     margin-left: 22%;
-}
+}*/
 
 .inner-content h2 {
 	color: deeppink;
