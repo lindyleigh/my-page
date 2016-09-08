@@ -216,7 +216,7 @@ a:focus {
 	display: flex;
 	-webkit-flex-wrap: wrap;
 	flex-wrap: wrap;
-	padding: 180px 5px 0;
+	padding: 205px 5px 30px;
 }
 
 .items-wrap::after {
@@ -287,24 +287,6 @@ a:focus {
 	opacity: 0;
 	-webkit-transform: translate3d(0, 20px, 0);
 	transform: translate3d(0, 20px, 0);
-}
-
-.hire-me {
-	margin-top: -3%;
-	margin-left: 86.5%;
-}	
-
-.hire-me button {
-	background-color: transparent;
-	border: none;
-	color: deeppink;
-	font-family: "Josefin Sans", "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 2.5em;
-	outline: none;
-}
-
-.hire-me:hover {
-	color: white;
 }
 
 .about-container {
