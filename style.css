@@ -309,12 +309,13 @@ a:focus {
 
 
 .image-container {
-	width: 46%;
-    height: 495px;
+	width: 30%;
+    height: 491px;
     background-image: url('images/aboutme1.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 10%;
+    margin-left: 11%;
 }
 
 .about-content {
@@ -322,10 +323,6 @@ a:focus {
     margin-top: 21%;
     margin-left: 22%;
 }
-
-/*.inner-content {
-	margin: 15%;
-}*/
 
 .inner-content h2 {
 	color: deeppink;
