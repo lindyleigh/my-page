@@ -295,43 +295,13 @@ a:focus {
 
 .about-section {
 	height: 500px;
+	text-align: center;
 	
 }
-
-/*.about-section {
-	position: relative;
-	border-bottom: 1px solid;
-	border-color: transparent;
-	margin-bottom: 0;
-	height: 495px;
-	width: 100%;
-}
-
-.info-container {
-    margin-left: 7%;
-    height: 495px;
-}
-
-
-.image-container {
-	width: 30%;
-    height: 491px;
-    background-image: url('images/aboutme1.jpg');
-    background-repeat: no-repeat;
-    background-size: contain;
-    border-radius: 10%;
-    margin-left: 11%;
-}*/
 
 .image-container img {
 	border-radius: 10%;
 }
-
-/*.about-content {
-	width: 60%;
-    margin-top: 21%;
-    margin-left: 22%;
-}*/
 
 .inner-content h2 {
 	color: deeppink;
