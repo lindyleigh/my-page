@@ -366,7 +366,7 @@ a:focus {
     margin-bottom: 10px;
 }
 
-.flip-container:hover .flipper, .flip-container.hover .flipper {
+.flip-container:hover .flipper {
 		transform: rotateY(180deg);
 }
 
@@ -395,7 +395,7 @@ a:focus {
 	z-index: 2;
 	transform: rotateY(0deg);
 	text-align: center;
-	background-color: white;
+	
 }
 
 .back {
