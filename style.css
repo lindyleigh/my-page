@@ -467,13 +467,12 @@ a:focus {
 	border: 5px solid white;
 	border-radius: 10%;
 	margin: 0 auto;
-	width: 500px;
+	width: 550px;
 	margin-bottom: 100px;
 }
 
 .contact ul {
 	list-style: none;
-	padding-left: 17%;
 }
 
 .contact li {
