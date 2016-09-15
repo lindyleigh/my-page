@@ -366,7 +366,7 @@ a:focus {
     margin-bottom: 10px;
 }
 
-.flip-container:hover .flipper, .flip-container.hover .flipper {
+.flip-container:hover .flipper, .flip-container.hover .flipper, .flip-container.hover2 .flipper {
 	transform: rotateY(180deg);
 	-webkit-transform: rotateY(180deg);
 	-moz-transform: rotateY(180deg);
